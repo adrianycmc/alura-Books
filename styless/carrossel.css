@@ -5,7 +5,8 @@
     text-transform: uppercase;
     font-size: 18px;
     font-weight: 700;
-    padding: 1em 0.5em 0;
+    padding: 1em;
+    
 }
 
 .swiper-slide img {
@@ -83,4 +84,8 @@
     text-decoration: none;
     margin: 0 1em 1em 0;
 
+}
+
+.descrição__estrelinhas {
+    margin: 1em 0 0 1em;
 }

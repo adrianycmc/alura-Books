@@ -1,6 +1,9 @@
 @import url("styless/header.css");
 @import url("styless/banner.css");
 @import url("styless/carrossel.css");
+@import url("styless/topicos.css");
+@import url("styless/contato.css");
+@import url("styless/rodape.css");
 
 :root {
     --cor-de-fundo: #EBECEE;
