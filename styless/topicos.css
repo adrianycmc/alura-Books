@@ -38,3 +38,9 @@
         font-size: 18px;
     }
 }
+
+@media screen and (min-width: 1728px) {
+    .tópicos {
+        padding: 3em 30vw 3em 30vw;
+    }
+}
