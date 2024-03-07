@@ -21,7 +21,7 @@ Este projeto tem como objetivo desenvolver a página "Alura Books", um e-commerc
 <br>
 
 ## 🌐 Página
-🚧 [Alura Books](https://adrianycmc.github.io/alura-Books/)
+[Alura Books](https://adrianycmc.github.io/alura-Books/)
 <br>
 <br>
 
