@@ -4,7 +4,7 @@
 </div>
 
 # Alura Books
-Este projeto tem como objetivo desenvolver a página "Alura Books", um e-commerce de livros, em 3 layouts/formatos diferentes (1728px - Desktop, 1024px - Tablet, 428px - Smartphone) recebendo o design da mesma diretamente do Figma.
+Este projeto tem como objetivo desenvolver a página "Alura Books", um e-commerce de livros, em 3 layouts/formatos diferentes (1728px - Desktop, 1024px - Tablet, 428px - Smartphone) recebendo o design diretamente do Figma.
 <br>
 <br>
 
