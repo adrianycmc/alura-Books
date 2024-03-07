@@ -7,6 +7,12 @@
 Este projeto tem como objetivo desenvolver a página "Alura Books", um e-commerce de livros, em 3 layouts/formatos diferentes (1728px - Desktop, 1024px - Tablet, 428px - Smartphone) recebendo o design diretamente do Figma.
 <br>
 <br>
+Para visualizar as 3 dimensões deste projeto é muito simples, siga as etapas:
+1. Abra a página do Alura Books em seu navegador.
+2. Aperte F12 e tenha acesso a "Ferramenta do Desenvolvedor" do seu navegador.
+3. Altere as dimensões no primeiro campo disponível acima da página chamado: "Dimensões".
+4. Teste com 1728px, 1024px e 428px e veja os layouts mudarem. 
+<br>
 
 ## 💻 Tecnologias utilizadas
 <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" alt="Html5" height="40" width="40"> . <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" alt="Css3" height="40" width="40"> . <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg" alt="Css3" height="40" width="40">
