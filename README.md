@@ -49,7 +49,7 @@ Para contribuir com Alura Plus, siga estas etapas:
 <br>
 
 ## 📜 Certificado do curso que fiz para desenvolver este projeto
-🚧 Em construção
+[HTML e CSS: Responsividade com Mobile-First](https://cursos.alura.com.br/user/adrianycmc/course/html-css-responsividade-mobile-first/certificate)
 <br>
 <br>
 
