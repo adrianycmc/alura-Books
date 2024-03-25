@@ -33,7 +33,7 @@ Para visualizar as 3 dimensões deste projeto é muito simples, siga as etapas:
 
 ## 📫 Contribuindo 
 
-Para contribuir com Alura Plus, siga estas etapas:
+Para contribuir com Alura Books, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
